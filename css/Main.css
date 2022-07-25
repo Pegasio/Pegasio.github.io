@@ -1,0 +1,10 @@
+.mamy {
+  width: auto;
+  height: auto;
+  font-size: 20px;
+  font-family: monospace;
+}
+.mamy .maindirect {
+  width: auto;
+  height: auto;
+}
